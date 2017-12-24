@@ -1,0 +1,23 @@
+{
+  "name": "webmechanicx/streak",
+  "description": "Streak PHP SDK",
+  "type": "library",
+  "keywords": [
+    "streak",
+    "streak crm",
+    "api",
+	"streak api"
+  ],
+  "homepage": "https://streak.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Farhadur Rahim",
+	  "email": "webmechanicx@gmail.com",
+      "homepage": "https://github.com/webmechanicx/streak/"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "Streak\\" : "lib/" }
+  }
+}
