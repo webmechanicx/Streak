@@ -49,16 +49,22 @@ Simple usage looks like:
 
 ```php
 \Streak\Streak::setApiKey('<-- Your Streak API Key -->');
-$pipeline	= new \Streak\StreakPipeline;
-$params		= array(
-				'name' => 'Foo',
-				'description' => 'Bar'
+
+$pipeline = new \Streak\StreakPipeline;
+
+$params	 = array(
+			'name' => 'Foo',
+			'description' => 'Bar'
 			);
 
-$data		= $pipeline->createPipeline($params);
+$data = $pipeline->createPipeline($params);
 
 print_r( json_decode($data) );
 ```
+
+## More Examples
+
+you can download [Examples](https://github.com/webmechanicx/Streak/tree/master/examples) available with this package and getting started.
 
 ## Documentation
 
