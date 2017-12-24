@@ -1,10 +1,37 @@
 language: php
-php:
-  - '5.3'
-  - '5.4'
-  - '5.6'
-  - '7.0'
-  - hhvm # on Trusty only
-  - nightly
-env:
-  - STREAK_MOCK_VERSION=1.0 
+matrix:
+  include:
+    - php: 5.3
+      env: AUTOLOAD=1
+      dist: precise
+    - php: 5.3
+      env: AUTOLOAD=0
+      dist: precise
+    - php: 5.4
+      env: AUTOLOAD=1
+    - php: 5.4
+      env: AUTOLOAD=0
+    - php: 5.5
+      env: AUTOLOAD=1
+    - php: 5.5
+      env: AUTOLOAD=0
+    - php: 5.6
+      env: AUTOLOAD=1
+    - php: 5.6
+      env: AUTOLOAD=0
+    - php: 7.0
+      env: AUTOLOAD=1
+    - php: 7.0
+      env: AUTOLOAD=0
+    - php: 7.1
+      env: AUTOLOAD=1
+    - php: 7.1
+      env: AUTOLOAD=0
+    - php: 7.2
+      env: AUTOLOAD=1
+    - php: 7.2
+      env: AUTOLOAD=0
+    - php: hhvm
+      env: AUTOLOAD=1
+    - php: hhvm
+      env: AUTOLOAD=0
