@@ -1,3 +1,10 @@
+# Streak PHP bindings
+
+[![Latest Stable Version](https://poser.pugx.org/webmechanicx/streak/v/stable.svg)](https://packagist.org/packages/webmechanicx/streak)
+[![Total Downloads](https://poser.pugx.org/webmechanicx/streak/downloads.svg)](https://packagist.org/packages/webmechanicx/streak)
+[![License](https://poser.pugx.org/webmechanicx/streak/license.svg)](https://packagist.org/packages/webmechanicx/streak)
+
+
 # Streak
 Streak PHP Client https://www.streak.com/api/#apikey
 
