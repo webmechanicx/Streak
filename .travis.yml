@@ -7,5 +7,4 @@ php:
   - hhvm # on Trusty only
   - nightly
 env:
-  global:
-- STREAK_MOCK_VERSION=1.0 
+  - STREAK_MOCK_VERSION=1.0 
