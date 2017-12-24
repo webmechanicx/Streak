@@ -1,7 +1,6 @@
 {
   "name": "webmechanicx/streak",
   "description": "Streak PHP SDK",
-  "version": "1.0",
   "type": "library",
   "keywords": [
     "streak",
