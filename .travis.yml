@@ -1,12 +1,7 @@
 language: php
+php: 
+  - '5.5'
 
-- php: 5.3
-    env: AUTOLOAD=1
-    dist: precise
-- php: 5.3
-    env: AUTOLOAD=0
-    dist: precise
-- php: 5.4
-    env: AUTOLOAD=1
-- php: 5.4
-    env: AUTOLOAD=0
+before_script:
+  - phpenv config-rm xdebug.ini
+  - composer install
