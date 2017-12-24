@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ignore the SimpleTest library if it is installed to /examples/.
+/examples/
+
+# Ignore the /vendor/ directory for people using composer
+/vendor/
+
+# If the vendor directory isn't being commited the composer.lock file should also be ignored
+composer.lock
