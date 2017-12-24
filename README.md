@@ -1,5 +1,5 @@
 # Streak
-Streak PHP Client https://www.streak.com/api/
+Streak PHP Client https://www.streak.com/api/#apikey
 
 You can sign up for a Streak account at https://streak.com
 
@@ -56,4 +56,4 @@ print_r( json_decode($data) );
 
 ## Documentation
 
-Please see https://streak.com/api for up-to-date documentation.
+Please see https://www.streak.com/api/ for up-to-date documentation.
