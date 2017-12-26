@@ -5,8 +5,6 @@
 [![License](https://poser.pugx.org/webmechanicx/streak/license.svg)](https://packagist.org/packages/webmechanicx/streak)
 
 # Streak
-Streak PHP Client https://www.streak.com/api/#apikey
-
 You can sign up for a Streak account at https://streak.com
 
 ## Requirements
