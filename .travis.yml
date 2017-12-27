@@ -7,8 +7,6 @@ php:
   - hhvm
 install:
   - composer install --no-scripts --no-interaction --prefer-source
-script:
-  - php vendor/bin/phpspec run
 matrix:
   allow_failures:
     - php: 7.0
