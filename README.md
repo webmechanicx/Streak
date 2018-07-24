@@ -67,4 +67,4 @@ you can download [Examples](https://github.com/webmechanicx/Streak/tree/master/e
 ## Documentation
 Please see https://www.streak.com/api/ for up-to-date documentation.
 
-## Support Streak API endpoints are https://www.streak.com/api/v1 and https://www.streak.com/api/v2. Streak uses HTTP Basic Auth for authentication and all calls must be over HTTPS.
+## Support Streak API endpoints are https://www.streak.com/api/v1 and https://www.streak.com/api/v2
