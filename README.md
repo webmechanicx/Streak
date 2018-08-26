@@ -65,6 +65,6 @@ print_r( json_decode($data) );
 you can download [Examples](https://github.com/webmechanicx/Streak/tree/master/examples) available with this package and getting started.
 
 ## Documentation
-Please see https://streak.readme.io/docs/getting-started for up-to-date documentation.
+Please see [docs](https://streak.readme.io/docs/getting-started) for up-to-date documentation.
 
 ## This Streak Client Supports both endpoints are https://www.streak.com/api/v1 and https://www.streak.com/api/v2
