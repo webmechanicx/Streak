@@ -5,6 +5,7 @@
 [![License](https://poser.pugx.org/webmechanicx/streak/license.svg)](https://packagist.org/packages/webmechanicx/streak)
 
 # Streak
+
 You can sign up for a Streak account at https://streak.com
 
 ## Requirements
@@ -65,6 +66,7 @@ print_r( json_decode($data) );
 you can download [Examples](https://github.com/webmechanicx/Streak/tree/master/examples) available with this package and getting started.
 
 ## Documentation
+
 Please see [docs](https://streak.readme.io/docs/getting-started) for up-to-date documentation.
 
-## This Streak Client Supports both endpoints are https://www.streak.com/api/v1 and https://www.streak.com/api/v2
+## This Streak Client Supports both endpoints are [v1](https://www.streak.com/api/v1) and [v2](https://www.streak.com/api/v2)
