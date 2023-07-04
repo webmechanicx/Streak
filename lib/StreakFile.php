@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#file
+ * readmore: https://streak.readme.io/reference/files
  */
 
 class StreakFile

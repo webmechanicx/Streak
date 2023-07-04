@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://streak.readme.io/reference#get-an-organization
+ * readmore: https://streak.readme.io/reference/get-an-organization
  */
 
 class StreakOrganization

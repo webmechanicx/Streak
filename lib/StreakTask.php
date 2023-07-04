@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#task
+ * readmore: https://streak.readme.io/reference/read-a-task
  */
 
 class StreakTask

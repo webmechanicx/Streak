@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#user
+ * readmore: https://streak.readme.io/reference/get-current-user
  */
 
 class StreakUser

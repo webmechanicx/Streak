@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://streak.readme.io/reference#webhooks
+ * readmore: https://streak.readme.io/reference/webhooks
  */
 
 class StreakWebhook

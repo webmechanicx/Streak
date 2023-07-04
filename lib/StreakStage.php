@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#stage
+ * readmore: https://streak.readme.io/reference/list-all-stages-in-pipeline
  */
 
 class StreakStage
