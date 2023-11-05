@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://streak.readme.io/
+ * readmore: https://streak.readme.io/reference/read-a-contact-1
  */
 
 class StreakContact

@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#pipeline
+ * readmore: https://streak.readme.io/reference/list-all-pipelines
  */
 
 class StreakPipeline

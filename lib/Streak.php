@@ -14,7 +14,7 @@ class Streak
 {
 
     public static $apiKey;
-    public static $apiBase = 'https://www.streak.com/api';
+    public static $apiBase = 'https://api.streak.com/api';
 
 	
     /**

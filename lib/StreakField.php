@@ -7,7 +7,7 @@ namespace Streak;
  *
  * @package Streak
  *
- * readmore: https://www.streak.com/api/#field
+ * readmore: https://streak.readme.io/reference/list-all-fields-in-a-pipeline
  */
 
 class StreakField
